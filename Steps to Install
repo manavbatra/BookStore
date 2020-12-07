@@ -1,0 +1,9 @@
+1.Install Java JDK 8 (1.8.0_271)
+
+2.Install Apache Tomcat 8.5
+
+3.Install XAMPP and Run the SQL script in the admin page of XAMPP/ Run the SQL script on derby in eclipse
+
+4.Import the WAR file through eclipse
+
+5.Run start.java, the project is running now!!
